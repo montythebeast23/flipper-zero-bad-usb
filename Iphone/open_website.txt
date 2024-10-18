@@ -11,6 +11,6 @@ ENTER
 DELAY 1000 
 GUI L 
 REM Insert your website below 
-STRING youtube.com
+STRING Twitwer.com
 DELAY 1000 
 ENTER
