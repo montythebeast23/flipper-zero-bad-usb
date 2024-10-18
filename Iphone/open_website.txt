@@ -1,7 +1,7 @@
-REM Open Safari And Search for Youtube on An
+REM Open Safari And Search for Instagram on An
 DELAY 500
 STRING open Safari
 ENTER
 DELAY 3000
-STRING Youtube.com
+STRING Instagram.com
 ENTER
